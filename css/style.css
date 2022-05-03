@@ -1,0 +1,124 @@
+body {
+  background: rgb(51, 51, 51);
+  color: #fff;
+}
+
+.navbar {
+  font-family: Harry P;
+  font-size: 28px;
+}
+
+.navbar-brand {
+  font-size: 60px;
+}
+
+#home-section {
+  background-image: url(../img/HP/Hogwarts.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1070px;
+}
+
+#home-section .home-inner{
+  padding-top: 150px;
+}
+
+#home-section .card-form{
+  opacity: 0.8;
+  width: 120%;
+}
+
+.harry {
+  font-family: 'Libre Baskerville', serif;
+}
+
+#potter {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 22px;
+}
+
+.card-body {
+  font-family: 'Libre Baskerville', serif;
+}
+
+#puzzles-section {
+  background-image: url(../img/Puzzle/great\ hall.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1070px;
+}
+
+#puzzles-section .home-inner {
+  padding-top: 120px;
+}
+
+.ron {
+  font-family: 'Tapestry', cursive;
+}
+
+.weasley {
+  font-family: 'Orelega One', cursive;
+}
+
+.hermione {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 30px;
+}
+
+#quizes-section {
+  background-image: url(../img/Quiz/Patronus.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1070px;
+}
+
+#quizes-section .home-inner {
+  padding-top: 120px;
+}
+
+.granger {
+  font-family: 'Libre Baskerville', serif;
+}
+
+#club-section {
+  background-image: url(../img/Club/Potter.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1070px;
+}
+
+#club-section .home-inner {
+  padding-top: 120px;
+}
+
+.draco {
+  font-family: Harry P;
+  font-size: 100px;
+}
+
+.malfoy {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 18px;
+  color: gold;
+}
+
+.fred {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 22px;
+}
+
+#shop-section {
+  background-image: url(../img/Shop/diagon\ alley.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1070px;
+}
+
+#shop-section .home-inner {
+  padding-top: 120px;
+}
